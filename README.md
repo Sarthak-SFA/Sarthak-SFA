@@ -103,12 +103,11 @@ Here are some repositories I’ve worked on:
 ![Visitors](https://komarev.com/ghpvc/?username=Sarthak-SFA&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
-
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Sarthak-SFA/Sarthak-SFA/blob/output/github-contribution-grid-snake.svg)
-
----
+<p align="center">
+  <img src="https://github.com/Sarthak-SFA/Sarthak-SFA/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ## 💡 Dev Thought of the Day
 
