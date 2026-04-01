@@ -73,10 +73,7 @@ I love building scalable and user-friendly web applications using **React, TypeS
 
 ## ⏱ Coding Activity
 
-<!-- WakaTime tab तभी दिखेगा जब WakaTime setup होगा -->
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sarthak-SFA)
-
----
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Sarthak-SFA&theme=tokyonight&hide_border=true)
 
 ## 🚀 Featured Projects
 
