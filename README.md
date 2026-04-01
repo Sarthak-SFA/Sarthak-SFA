@@ -70,11 +70,14 @@ I love building scalable and user-friendly web applications using **React, TypeS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-SFA&layout=donut&theme=tokyonight)
 
 ---
-
 ## ⏱ Coding Activity
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Sarthak-SFA&theme=tokyonight&hide_border=true)
 
+## ⏱ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ## 🚀 Featured Projects
 
 Here are some repositories I’ve worked on:
