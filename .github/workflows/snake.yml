@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: Sarthak-SFA
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#000000&color_dots=#00ff00,#ffffff,#00ff00,#ffffff,#00ff00
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#00ff00,#000000,#00ff00,#000000,#00ff00
+            dist/github-contribution-grid-snake.svg?color_snake=#000000&color_dots=#ebedf0,#00ff00,#00ff00,#00ff00,#00ff00
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#161b22,#00ff00,#00ff00,#00ff00,#00ff00
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
